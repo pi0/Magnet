@@ -1,18 +1,7 @@
-[![Build Status](https://travis-ci.org/premnirmal/Magnet.svg?branch=master)](https://travis-ci.org/premnirmal/Magnet)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.premnirmal.magnet/library/badge.png)](http://search.maven.org/#artifactdetails|com.premnirmal.magnet|library|1.1.1|)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Magnet-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1139)
-
 # Magnet
 
 This library enables you to create a window icon similar to Facebooks chat icon, and also similar to the [Link Bubble](https://play.google.com/store/apps/details?id=com.linkbubble.playstore&hl=en) app.
 See the demo project for sample implementations.
-
-### Sample play store app:
-
-[![Google play link](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.premnirmal.smoothie)
-
-The library takes care of all the touching and dragging of the window icon, leaving you with callbacks so you can save your time
-doing the important stuff.
 
 ![] (img/magnet.gif)
 
